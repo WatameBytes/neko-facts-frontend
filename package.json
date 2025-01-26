@@ -8,10 +8,14 @@
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1"
   },
-  "homepage": "https://<your-github-username>.github.io/<repo-name>",
+  "homepage": "https://github.com/WatameBytes/neko-facts-frontend",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -30,8 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
   }
 }
