@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/WatameBytes/neko-facts-frontend/static/css/main.ad13df5d.css",
-    "main.js": "/WatameBytes/neko-facts-frontend/static/js/main.995ac2bc.js",
-    "index.html": "/WatameBytes/neko-facts-frontend/index.html",
-    "main.ad13df5d.css.map": "/WatameBytes/neko-facts-frontend/static/css/main.ad13df5d.css.map",
-    "main.995ac2bc.js.map": "/WatameBytes/neko-facts-frontend/static/js/main.995ac2bc.js.map"
+    "main.css": "/neko-facts-frontend/static/css/main.ad13df5d.css",
+    "main.js": "/neko-facts-frontend/static/js/main.995ac2bc.js",
+    "index.html": "/neko-facts-frontend/index.html",
+    "main.ad13df5d.css.map": "/neko-facts-frontend/static/css/main.ad13df5d.css.map",
+    "main.995ac2bc.js.map": "/neko-facts-frontend/static/js/main.995ac2bc.js.map"
   },
   "entrypoints": [
     "static/css/main.ad13df5d.css",
